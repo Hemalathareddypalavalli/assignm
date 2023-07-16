@@ -1,0 +1,12 @@
+.list{
+    color: rgb(255, 255, 255);
+    border: 10px double rgb(255, 255, 0);
+    display: flex;
+    width: 600px;
+    justify-content: space-between;
+    padding: 25px 50px;
+    font-size: 120%;
+}
+.dz{
+    list-style-type: decimal-leading-zero;
+}
